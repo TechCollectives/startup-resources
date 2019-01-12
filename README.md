@@ -15,3 +15,8 @@ A curated list of resources especially for people who are looking to run a start
 - [How to Start a Startup by Sam Altman](http://startupclass.samaltman.com/courses/lec01/)
 - [Developing Innovative Ideas](https://www.coursera.org/learn/innovative-ideas)
 - [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
+- [How to Start a Startup](https://www.udemy.com/how-to-start-a-startup-business/)
+
+# Websites
+- [Steve Blank's Website](https://steveblank.com/)
+
