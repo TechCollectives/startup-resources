@@ -1,10 +1,11 @@
-# L0 [How to Start a Startup](https://www.udemy.com/how-to-start-a-startup-business/)
+## _L0 You Have An Idea_
+*  ### [How to Start a Startup](https://www.udemy.com/how-to-start-a-startup-business/)
 
-# L1
+## _L1 Validate Your Idea_
 
-# L2
+## _L2 Business Canvas_
 
-# L3
+## _L3 Start Your Company_
 
-# Comprehensive Websites
-## [Steve Blank/'s Website](https://steveblank.com/)
+## _Comprehensive Websites_
+*  ### [Steve Blank's Website](https://steveblank.com/)
