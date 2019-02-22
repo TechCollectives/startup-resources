@@ -24,3 +24,4 @@ A curated list of resources especially for people who are looking to run a start
 # Topics
 ## Fundraising
 - [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
+- [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
