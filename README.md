@@ -21,3 +21,6 @@ A curated list of resources especially for people who are looking to run a start
 - [Steve Blank's Website](https://steveblank.com/)
 - [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
+# Topics
+## Fundraising
+- [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
