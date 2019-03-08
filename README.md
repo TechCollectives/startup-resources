@@ -18,10 +18,18 @@ A curated list of resources especially for people who are looking to run a start
 - [How to Start a Startup by Julien Meyer](https://www.udemy.com/how-to-start-a-startup-business/)
 
 # Websites
+- [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 - [Steve Blank's Website](https://steveblank.com/)
+- [Venture Beat](https://venturebeat.com/)
 - [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
 # Topics
+## Incubators & Accelerators
+- [Connecting startups with Accelerators](https://www.f6s.com/)
+
+## Innovation & Entrepreneurship
+- [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
+
 ## Fundraising
 - [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 - [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
