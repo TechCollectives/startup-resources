@@ -29,6 +29,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Fundraising
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
+* [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
