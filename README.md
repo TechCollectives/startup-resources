@@ -36,5 +36,6 @@ A curated list of resources especially for people who are looking to run a start
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
-
+## Products
+* [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 
