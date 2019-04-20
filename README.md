@@ -1,4 +1,4 @@
-# startup-resources
+# Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
 
 # Podcasts
