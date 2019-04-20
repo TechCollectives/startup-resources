@@ -31,7 +31,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
 ## Ideas
-* [How Investors Think aout Ideas](https://youtu.be/haqjaY_0uEc)
+* [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
