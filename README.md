@@ -39,4 +39,6 @@ A curated list of resources especially for people who are looking to run a start
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
 ## Products
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
+## Toolkits
+*[Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 
