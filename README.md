@@ -2,7 +2,7 @@
 A curated list of resources especially for people who are looking to run a startup in the future.
 
 # Podcasts
-* [Enterpreneurial Leaders](https://ecorner.stanford.edu/series/etl/)
+* [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Mixergy](https://mixergy.com)
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stitcher](https://www.stitcher.com/)
