@@ -25,6 +25,9 @@ A curated list of resources especially for people who are looking to run a start
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
+# Resources
+* []Startup School Library](https://www.startupschool.org/library)
+
 # Topics
 ## Business Plans
 * [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
