@@ -26,7 +26,8 @@ A curated list of resources especially for people who are looking to run a start
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
 # Resources
-* []Startup School Library](https://www.startupschool.org/library)
+* [Startup School Library](https://www.startupschool.org/library)
+* [The Build Something Toolkit](https://ventureforamerica.org/get-involved/toolkit/)
 
 # Topics
 ## Business Plans
