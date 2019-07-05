@@ -27,7 +27,6 @@ A curated list of resources especially for people who are looking to run a start
 
 # Resources
 * [Startup School Library](https://www.startupschool.org/library)
-* [The Build Something Toolkit](https://ventureforamerica.org/get-involved/toolkit/)
 
 # Topics
 ## Business Plans
