@@ -45,8 +45,8 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 ## Startup 101
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
+## Team
+* [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
 ## Toolkits
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 
-## Team
-* [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
