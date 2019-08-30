@@ -48,3 +48,5 @@ A curated list of resources especially for people who are looking to run a start
 ## Toolkits
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 
+## Team
+* [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
