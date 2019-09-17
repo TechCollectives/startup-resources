@@ -21,6 +21,7 @@ A curated list of resources especially for people who are looking to run a start
 # Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
+* [Startupweekend](https://startupweekend.org/)
 * [Steve Blank's Website](https://steveblank.com/)
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
