@@ -27,6 +27,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
 # Resources
+* [Startups & Companies in NYC](https://www.builtinnyc.com/)
 * [Startup School Library](https://www.startupschool.org/library)
 
 # Topics
