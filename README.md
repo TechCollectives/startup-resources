@@ -32,8 +32,6 @@ A curated list of resources especially for people who are looking to run a start
 * [Startup School Library](https://www.startupschool.org/library)
 
 # Topics
-## Business Plans
-* [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
 ## Fundraising
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
@@ -44,6 +42,10 @@ A curated list of resources especially for people who are looking to run a start
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
+## Business Model
+* [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
+## Business Plans
+* [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
 ## Products
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 ## Startup 101
