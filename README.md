@@ -32,7 +32,8 @@ A curated list of resources especially for people who are looking to run a start
 * [Startup School Library](https://www.startupschool.org/library)
 
 # Topics
-## Fundraising
+## Funding
+* [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
