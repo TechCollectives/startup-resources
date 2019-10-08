@@ -13,10 +13,11 @@ A curated list of resources especially for people who are looking to run a start
 * [Peter Thiel CS 183](http://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
 # Free Courses
-* [How to Start a Startup by Sam Altman](http://startupclass.samaltman.com/courses/lec01/)
 * [Developing Innovative Ideas](https://www.coursera.org/learn/innovative-ideas)
-* [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
+* [How to Start a Startup by Sam Altman](http://startupclass.samaltman.com/courses/lec01/)
 * [How to Start a Startup by Julien Meyer](https://www.udemy.com/how-to-start-a-startup-business/)
+* [I-Corp Course Information & Materials](https://venturewell.org/i-corps/team-materials/)
+* [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
 
 # Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
