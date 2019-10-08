@@ -50,6 +50,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Products
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 ## Startup 101
+* [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
 ## Team
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
