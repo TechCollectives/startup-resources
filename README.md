@@ -43,6 +43,8 @@ A curated list of resources especially for people who are looking to run a start
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
+* [Eight Great I&E Class Exercises](https://venturewell.org/eight-great-ie-class-exercises/)
+* [7 Class Exercises to Amplify Innovative Thinking](https://venturewell.org/class-exercises/)
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
