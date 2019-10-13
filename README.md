@@ -28,7 +28,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
 # Resources
-* [Real Time Company Data](https://about.crunchbase.com/)
+* [Real Time Company Data](https://www.crunchbase.com/)
 * [Startups & Companies in NYC](https://www.builtinnyc.com/)
 * [Startup School Library](https://www.startupschool.org/library)
 
