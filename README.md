@@ -40,6 +40,7 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
 ## Ideas
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
+* [One Simple Idea for Startups](https://youtu.be/6csI0dZzFRQ)
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 ## Innovation & Entrepreneurship
