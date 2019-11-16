@@ -14,6 +14,7 @@ A curated list of resources especially for people who are looking to run a start
 
 # Free Courses
 * [Developing Innovative Ideas](https://www.coursera.org/learn/innovative-ideas)
+* [FastTrac](https://www.fasttrac.org/)
 * [How to Start a Startup by Sam Altman](http://startupclass.samaltman.com/courses/lec01/)
 * [How to Start a Startup by Julien Meyer](https://www.udemy.com/how-to-start-a-startup-business/)
 * [I-Corp Course Information & Materials](https://venturewell.org/i-corps/team-materials/)
