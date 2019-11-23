@@ -20,15 +20,14 @@ A curated list of resources especially for people who are looking to run a start
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
 
-## Resources
-* [Real Time Company Data](https://www.crunchbase.com/)
-* [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
-* [Startups & Companies in NYC](https://www.builtinnyc.com/)
-* [Startup School Library](https://www.startupschool.org/library)
-
-## Websites
+## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
+* [Real Time Company Data](https://www.crunchbase.com/)
+* [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
+* [Starter Stories](https://starterstory.com/)
+* [Startup School Library](https://www.startupschool.org/library)
+* [Startups & Companies in NYC](https://www.builtinnyc.com/)
 * [Startupweekend](https://startupweekend.org/)
 * [Steve Blank's Website](https://steveblank.com/)
 * [Venture Beat](https://venturebeat.com/)
