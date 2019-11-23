@@ -23,6 +23,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
+* [Indie Hackers](https://www.indiehackers.com/)
 * [Real Time Company Data](https://www.crunchbase.com/)
 * [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
 * [Starter Stories](https://starterstory.com/)
