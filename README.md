@@ -41,6 +41,8 @@ A curated list of resources especially for people who are looking to run a start
 * [FastTrac Tools](https://workspace.fasttrac.org/)
 
 # Topics
+## Customer Discovery
+* [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
