@@ -78,13 +78,14 @@ A curated list of resources especially for people who are looking to run a start
 * [Lucky Or Smart?: Fifty Pages for the First-Time Entrepreneur by Bo Peabody]()
 * [Emotional Intelligence 2.0 by Travis Bradberry]()
 * [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
-Business plan]
+Business plan]()
 
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
+
 ## Ideas
 * [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
@@ -99,7 +100,7 @@ Business plan]
 * [7 Class Exercises to Amplify Innovative Thinking](https://venturewell.org/class-exercises/)
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
 * [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
-* [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger]
+* [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger]()
 
 
 ## Products
