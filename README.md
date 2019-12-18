@@ -29,7 +29,7 @@ A curated list of resources especially for people who are looking to run a start
 
 ### Innovation
 
-* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Claton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
+* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
 
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
