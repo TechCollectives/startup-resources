@@ -25,15 +25,18 @@ A curated list of resources especially for people who are looking to run a start
 ## Recommanded Books
 
 ### Entrepreneurship & Startup
+
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
 * [Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
-* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+
 
 ### Innovation
 
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
 * [Innovation Engine (Enhanced Edition): A Crash Course on Creativity, by Tina Seelig](https://www.amazon.com/Innovation-Engine-Enhanced-Course-Creativity-ebook/dp/B00I2PH5OO/)
-* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
+
 
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
@@ -59,12 +62,12 @@ A curated list of resources especially for people who are looking to run a start
 
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
-* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder]()
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
 
 ## Business Plans
 * [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
-* [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik]()
-* [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman]()
+* [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik](https://www.amazon.com/Business-plan-template-example-business-ebook/dp/B0193L53IU/)
+* [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
 
 ## Customer Discovery
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
@@ -75,10 +78,10 @@ A curated list of resources especially for people who are looking to run a start
 * [Outliers: The Story of Success by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/)
 
 ## Execution
-* [Lucky Or Smart?: Fifty Pages for the First-Time Entrepreneur by Bo Peabody]()
-* [Emotional Intelligence 2.0 by Travis Bradberry]()
+* [Lucky Or Smart?: Fifty Pages for the First-Time Entrepreneur by Bo Peabody](https://www.amazon.com/Lucky-Smart-Fifty-First-Time-Entrepreneur-ebook/dp/B001U0OJ92/)
+* [Emotional Intelligence 2.0 by Travis Bradberry](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry-ebook/dp/B002U3CBUW/)
 * [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
-Business plan]()
+Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
@@ -95,12 +98,12 @@ Business plan]()
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 
 ## Innovation & Entrepreneurship
-* [Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet]()
+* [Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)
 * [Eight Great I&E Class Exercises](https://venturewell.org/eight-great-ie-class-exercises/)
 * [7 Class Exercises to Amplify Innovative Thinking](https://venturewell.org/class-exercises/)
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
 * [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
-* [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger]()
+* [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
 
 
 ## Products
