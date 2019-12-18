@@ -20,6 +20,12 @@ A curated list of resources especially for people who are looking to run a start
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
 
+## Recommanded Books
+
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
+* [Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
