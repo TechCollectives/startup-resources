@@ -1,8 +1,9 @@
 # Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
 
-* [Entrepreneurship and Innovation Toolkit](https://openpress.usask.ca/entrepreneurshipandinnovationtoolkit/)## Free Ebooks,Essays
+## Free Ebooks,Essays
 
+* [Entrepreneurship and Innovation Toolkit](https://openpress.usask.ca/entrepreneurshipandinnovationtoolkit/)
 * [Harvard Startup Guide](https://otd.harvard.edu/upload/files/OTD_Startup_Guide.pdf)
 * [Peter Thiel CS 183](http://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 
