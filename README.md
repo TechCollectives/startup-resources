@@ -56,8 +56,30 @@ A curated list of resources especially for people who are looking to run a start
 * [FastTrac Tools](https://workspace.fasttrac.org/)
 
 # Topics
+
+## Business Model
+* [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder]()
+
+## Business Plans
+* [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
+* [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik]()
+* [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman]()
+
 ## Customer Discovery
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
+
+## Entrepreneurial Mindset
+
+* [How to think like an Entrepreneur by Philip Delves Broughton](https://www.amazon.com/Think-Like-Entrepreneur-School-Life-ebook/dp/B0140NXXWY/)
+* [Outliers: The Story of Success by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/)
+
+## Execution
+* [Lucky Or Smart?: Fifty Pages for the First-Time Entrepreneur by Bo Peabody]()
+* [Emotional Intelligence 2.0 by Travis Bradberry]()
+* [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
+Business plan]
+
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
@@ -67,24 +89,30 @@ A curated list of resources especially for people who are looking to run a start
 * [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
 * [One Simple Idea for Startups](https://youtu.be/6csI0dZzFRQ)
+
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
+
 ## Innovation & Entrepreneurship
+* [Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet]()
 * [Eight Great I&E Class Exercises](https://venturewell.org/eight-great-ie-class-exercises/)
 * [7 Class Exercises to Amplify Innovative Thinking](https://venturewell.org/class-exercises/)
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
-## Business Model
-* [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
-## Business Plans
-* [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
+* [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
+* [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger]
+
+
 ## Products
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
+
 ## Startup 101
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
+
 ## Team
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
+
 ## Toolkits
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 
