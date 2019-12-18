@@ -30,6 +30,8 @@ A curated list of resources especially for people who are looking to run a start
 ### Innovation
 
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
+* [Innovation Engine (Enhanced Edition): A Crash Course on Creativity, by Tina Seelig](https://www.amazon.com/Innovation-Engine-Enhanced-Course-Creativity-ebook/dp/B00I2PH5OO/)
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
 
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
