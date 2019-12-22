@@ -1,13 +1,25 @@
 # Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
 
-## Free Ebooks,Essays
+## Books
 
+### Entrepreneurship & Startup
+
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
 * [Entrepreneurship and Innovation Toolkit](https://openpress.usask.ca/entrepreneurshipandinnovationtoolkit/)
 * [Harvard Startup Guide](https://otd.harvard.edu/upload/files/OTD_Startup_Guide.pdf)
 * [Peter Thiel CS 183](http://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
+* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
+* [Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
 
-## Free Courses
+
+### Innovation
+
+* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
+* [Innovation Engine (Enhanced Edition): A Crash Course on Creativity, by Tina Seelig](https://www.amazon.com/Innovation-Engine-Enhanced-Course-Creativity-ebook/dp/B00I2PH5OO/)
+
+## Courses
 * [Developing Innovative Ideas](https://www.coursera.org/learn/innovative-ideas)
 * [FastTrac](https://www.fasttrac.org/)
 * [How to Start a Startup by Sam Altman](http://startupclass.samaltman.com/courses/lec01/)
@@ -21,22 +33,6 @@ A curated list of resources especially for people who are looking to run a start
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
-
-## Recommanded Books
-
-### Entrepreneurship & Startup
-
-* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
-* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
-* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
-* [Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
-
-
-### Innovation
-
-* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
-* [Innovation Engine (Enhanced Edition): A Crash Course on Creativity, by Tina Seelig](https://www.amazon.com/Innovation-Engine-Enhanced-Course-Creativity-ebook/dp/B00I2PH5OO/)
-
 
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
@@ -73,6 +69,7 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
 
 ## Customer Discovery
+* [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 
 ## Entrepreneurial Mindset
