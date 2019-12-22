@@ -48,9 +48,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
-# Tools
-
-## Website Building
+## Tools
 * [Build a Simple Website](https://gumroad.com/)
 * [FastTrac Tools](https://workspace.fasttrac.org/)
 
