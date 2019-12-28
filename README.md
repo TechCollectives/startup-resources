@@ -109,6 +109,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 ## Prototype
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
+* [How to Plan an MVP ](https://youtu.be/1hHMwLxN6EM)
 
 ## Startup 101
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
