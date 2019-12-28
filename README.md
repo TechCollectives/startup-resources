@@ -36,6 +36,7 @@ A curated list of resources especially for people who are looking to run a start
 
 ## Resources & Websites
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
+* [Builtin](https://builtin.com)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [Real Time Company Data](https://www.crunchbase.com/)
@@ -69,6 +70,9 @@ A curated list of resources especially for people who are looking to run a start
 ## Customer Discovery
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
+
+## Ecosystem
+* [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
 
 ## Entrepreneurial Mindset
 
