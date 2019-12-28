@@ -81,6 +81,9 @@ A curated list of resources especially for people who are looking to run a start
 * [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
 Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
+## Finance
+* [The ARt of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
+
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
