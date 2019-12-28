@@ -107,6 +107,9 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Products
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 
+## Prototype
+* [Making Sense of MVP (Minimal Viable Product)](https://youtu.be/0P7nCmln7PM)
+
 ## Startup 101
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
