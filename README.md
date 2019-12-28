@@ -42,7 +42,7 @@ A curated list of resources especially for people who are looking to run a start
 * [CoFounder's Lab](https://cofounderslab.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Founder's Nation](https://founders-nation.com/)
-* [Indie Hackers](https://www.indiehackers.com/)
+* [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [Real Time Company Data](https://www.crunchbase.com/)
 * [Seth Godin's Blog - Marketing](https://seths.blog/)
 * [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
