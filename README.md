@@ -35,11 +35,13 @@ A curated list of resources especially for people who are looking to run a start
 * [The Startup Chat](thestartupchat.com)
 
 ## Resources & Websites
+* [Alltop - General News, Guy Kawasaki](https://alltop.com/)
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [Builtin](https://builtin.com)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [Real Time Company Data](https://www.crunchbase.com/)
+* [Seth Godin's Blog - Marketing](https://seths.blog/)
 * [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
 * [Starter Stories](https://starterstory.com/)
 * [Startup School Library](https://www.startupschool.org/library)
