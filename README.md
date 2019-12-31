@@ -62,6 +62,7 @@ A curated list of resources especially for people who are looking to run a start
 * [International Business Incubator Association (INBIA)](https://inbia.org/)
 * [Kauffman Foundation](https://www.kauffman.org/)
 * [One Million Cups](https://www.1millioncups.com/)
+* [TIE NY](https://ny.tie.org/)
 * [Venturewell](https://venturewell.org/)
 
 
