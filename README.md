@@ -27,6 +27,7 @@ A curated list of resources especially for people who are looking to run a start
 * [I-Corp Course Information & Materials](https://venturewell.org/i-corps/team-materials/)
 * [How to Build a Startup, Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
+* [YC Startup School Lessons](https://www.startupschool.org/courses/5/lessons)
 
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
@@ -55,9 +56,15 @@ A curated list of resources especially for people who are looking to run a start
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 
-## Tools
-* [Build a Simple Website](https://gumroad.com/)
-* [FastTrac Tools](https://workspace.fasttrac.org/)
+## Organizations
+* [B2B Growth Forum](https://www.b2bgrowthforum.com/)
+* [Fuzhub](https://fuzehub.com/)
+* [International Business Incubator Association (INBIA)](https://inbia.org/)
+* [Kauffman Foundation](https://www.kauffman.org/)
+* [One Million Cups](https://www.1millioncups.com/)
+* [Venturewell](https://venturewell.org/)
+
+
 
 # Topics
 
@@ -135,5 +142,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
 
 ## Toolkits
+* [Build a Simple Website](https://gumroad.com/)
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
+* [FastTrac Tools](https://workspace.fasttrac.org/)
+* [GrowthWheel](https://www.growthwheel.com/)
 
