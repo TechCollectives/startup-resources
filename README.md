@@ -45,6 +45,7 @@ A curated list of resources especially for people who are looking to run a start
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Founder's Nation](https://founders-nation.com/)
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
+* [New York State Business Mentor Network](https://businessmentor.ny.gov/)
 * [Real Time Company Data](https://www.crunchbase.com/)
 * [Seth Godin's Blog - Marketing](https://seths.blog/)
 * [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
