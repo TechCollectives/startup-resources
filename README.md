@@ -130,8 +130,10 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
 
-## Products
+## Product and Product Market Fit
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
+* [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
+* [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4)
 
 ## Prototype
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
