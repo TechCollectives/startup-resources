@@ -110,9 +110,12 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
-
+* [How to Raise Money](https://youtu.be/0JBOSmRo8js)
 ## Ideas
 * [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
+* [How to Evaluate Ideas](https://youtu.be/7IoBUOsy_ew)
+* [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0)
+* [How to Evaluate Startup Ideas - Part 2]()
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
 * [One Simple Idea for Startups](https://youtu.be/6csI0dZzFRQ)
 
@@ -133,6 +136,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Product and Product Market Fit
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 * [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
+* [How To Find Product Market Fit](https://youtu.be/0LNQxT9LvM0)
 * [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4)
 
 ## Prototype
@@ -141,6 +145,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 ## Startup 101
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
+* [Entrepreneurship 101](https://youtu.be/7IoBUOsy_ew)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
 
