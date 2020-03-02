@@ -92,7 +92,7 @@ A curated list of resources especially for people who are looking to run a start
 
 ## Ecosystem
 * [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
-* [Startup Genome]9https://startupgenome.com/0
+* [Startup Genome](https://startupgenome.com/0)
 
 ## Entrepreneurial Mindset
 
