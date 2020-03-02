@@ -135,7 +135,9 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
 
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
+
 ## Marketing
+* [Marketing Secrets to Launching a New Business, bhy Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 
