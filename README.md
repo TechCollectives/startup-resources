@@ -83,6 +83,9 @@ A curated list of resources especially for people who are looking to run a start
 * [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik](https://www.amazon.com/Business-plan-template-example-business-ebook/dp/B0193L53IU/)
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
 
+## Channels
+* [channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
+
 ## Customer Discovery
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
@@ -132,6 +135,9 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
 
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
+## Marketing
+* [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
+* [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 
 ## Product and Product Market Fit
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
