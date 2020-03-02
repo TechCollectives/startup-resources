@@ -84,7 +84,7 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
 
 ## Channels
-* [channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
+* [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
 
 ## Customer Discovery
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
@@ -92,7 +92,7 @@ A curated list of resources especially for people who are looking to run a start
 
 ## Ecosystem
 * [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
-* [Startup Genome](https://startupgenome.com/0)
+* [Startup Genome](https://startupgenome.com/)
 
 ## Entrepreneurial Mindset
 
