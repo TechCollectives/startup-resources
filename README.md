@@ -141,6 +141,9 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 
+## Pitching
+* [Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
+
 ## Product and Product Market Fit
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
 * [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
