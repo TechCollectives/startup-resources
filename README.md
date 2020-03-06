@@ -143,6 +143,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 ## Pitching
 * [Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
+* [30 Startu Pitch Decks](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
 
 ## Product and Product Market Fit
 * [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
