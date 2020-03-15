@@ -87,6 +87,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
 
 ## Customer Discovery
+* [Acquiring Customers on a Budget](https://youtu.be/N9lZRgpLq-o)
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 
@@ -117,6 +118,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
 * [How to Raise Money](https://youtu.be/0JBOSmRo8js)
+* [When and How to Raise VC, NYU Startup School](https://youtu.be/eoeH1fYBr18)
 ## Ideas
 * [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 * [How to Evaluate Ideas](https://youtu.be/7IoBUOsy_ew)
@@ -139,20 +141,32 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
 
+## Market and Competition
+* [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
+
 ## Marketing
+* [creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
+* [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
 * [Marketing Secrets to Launching a New Business, bhy Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 
-## Pitching
+## Leadership
+* [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
+
+## Pitching & Storytelling
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
 * [Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
 * [30 Startu Pitch Decks](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
 * [Pitching your early stage startup](https://stripe.com/atlas/guides/pitching)
+* [Storytelling 101, NYU Startup School](https://youtu.be/DH9ESEQ_NY4)
 * [What is a pitch deck presentation?](https://slidebean.com/blog/startups-what-is-a-pitch-deck-presentation)
 
 ## Product and Product Market Fit
-* [How to Build Products Users Love](https://youtu.be/12D8zEdOPYo)
+* [Getting to Product Market Fit - Part 1, NYU Sratup School](https://youtu.be/7qG2RTW1mzA)
+* [Getting to Product Market Fit - Part 2, NYU Sratup School](https://youtu.be/jFZXV0uVvHw)
+* [How to Build Products Users Love, Kevin Hale, YC](https://youtu.be/12D8zEdOPYo)
+* [How to Build Products Users Love, NYU Startup School](https://youtu.be/smTqMS-AUnE)
 * [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
 * [How To Find Product Market Fit](https://youtu.be/0LNQxT9LvM0)
 * [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4)
@@ -168,6 +182,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
 
 ## Team
+* [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
 
 ## Toolkits
