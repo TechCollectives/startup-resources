@@ -155,6 +155,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
 
 ## Pitching & Storytelling
+* [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
 * [Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
 * [30 Startu Pitch Decks](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
