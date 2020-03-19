@@ -93,8 +93,13 @@ A curated list of resources especially for people who are looking to run a start
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 
 ## Ecosystem
-* [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
+* [CUNY I-Corp](https://www1.cuny.edu/sites/icorps/)
+* [International Buisness Innovation Association](https://inbia.org/)
+* [Startup Fuel](https://www.startupfuel.com/)
 * [Startup Genome](https://startupgenome.com/)
+* [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
+* [TIE New York](https://ny.tie.org/)
+* [UrbanTech NYC - GRID](https://urbantechnyc.com/)
 
 ## Entrepreneurial Mindset
 
