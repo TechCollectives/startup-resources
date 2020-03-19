@@ -1,10 +1,7 @@
 # Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
-
 ## Books
-
 ### Entrepreneurship & Startup
-
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
 * [Entrepreneurship and Innovation Toolkit](https://openpress.usask.ca/entrepreneurshipandinnovationtoolkit/)
 * [Harvard Startup Guide](https://otd.harvard.edu/upload/files/OTD_Startup_Guide.pdf)
@@ -13,13 +10,9 @@ A curated list of resources especially for people who are looking to run a start
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
 * [Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
-
-
 ### Innovation
-
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change), by Clayton Christensen ](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I)
 * [Innovation Engine (Enhanced Edition): A Crash Course on Creativity, by Tina Seelig](https://www.amazon.com/Innovation-Engine-Enhanced-Course-Creativity-ebook/dp/B00I2PH5OO/)
-
 ## Courses
 * [Developing Innovative Ideas](https://www.coursera.org/learn/innovative-ideas)
 * [FastTrac](https://www.fasttrac.org/)
@@ -29,14 +22,12 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Build a Startup, Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
 * [YC Startup School Lessons](https://www.startupschool.org/courses/5/lessons)
-
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Mixergy](https://mixergy.com)
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
-
 ## Resources & Websites
 * [Alltop - General News, Guy Kawasaki](https://alltop.com/)
 * [AngelList - Largest Startup Community](https://angel.co/)
@@ -57,67 +48,49 @@ A curated list of resources especially for people who are looking to run a start
 * [Steve Blank's Website](https://steveblank.com/)
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
-
 ## Organizations
 * [B2B Growth Forum](https://www.b2bgrowthforum.com/)
+* [CUNY I-Corp](https://www1.cuny.edu/sites/icorps/)
 * [Fuzhub](https://fuzehub.com/)
 * [International Business Incubator Association (INBIA)](https://inbia.org/)
 * [Kauffman Foundation](https://www.kauffman.org/)
 * [New York State Business Incubator Association](https://www.bianys.com/)
 * [One Million Cups](https://www.1millioncups.com/)
+* [SCORE NY](https://newyorkcity.score.org/)
+* [Startup Fuel](https://www.startupfuel.com/)
+* [Startup Genome](https://startupgenome.com/)
+* [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
 * [TIE NY](https://ny.tie.org/)
+* [UrbanTech NYC - GRID](https://urbantechnyc.com/)
 * [Venturewell](https://venturewell.org/)
-
-
-
 # Topics
-
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
-
 ### Business Model Canvas Toolkit
 * [Create Value Proposition](http://bit.ly/bmcvp)
-
 ## Business Plans
 * [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
 * [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik](https://www.amazon.com/Business-plan-template-example-business-ebook/dp/B0193L53IU/)
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
-
 ## Channels
 * [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
-
 ## Customer Discovery
 * [Acquiring Customers on a Budget](https://youtu.be/N9lZRgpLq-o)
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
-
-## Ecosystem
-* [CUNY I-Corp](https://www1.cuny.edu/sites/icorps/)
-* [International Buisness Innovation Association](https://inbia.org/)
-* [Startup Fuel](https://www.startupfuel.com/)
-* [Startup Genome](https://startupgenome.com/)
-* [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
-* [TIE New York](https://ny.tie.org/)
-* [UrbanTech NYC - GRID](https://urbantechnyc.com/)
-
 ## Entrepreneurial Mindset
-
 * [How to think like an Entrepreneur by Philip Delves Broughton](https://www.amazon.com/Think-Like-Entrepreneur-School-Life-ebook/dp/B0140NXXWY/)
 * [Outliers: The Story of Success by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/)
-
 ## Execution
 * [Lucky Or Smart?: Fifty Pages for the First-Time Entrepreneur by Bo Peabody](https://www.amazon.com/Lucky-Smart-Fifty-First-Time-Entrepreneur-ebook/dp/B001U0OJ92/)
 * [Emotional Intelligence 2.0 by Travis Bradberry](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry-ebook/dp/B002U3CBUW/)
 * [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
 Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
-
 ## Finance
 * [The Art of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
-
 ## Founder
 * [First-Time Founders Resource Guide](https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608)
-
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
@@ -132,11 +105,9 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How to Evaluate Startup Ideas - Part 2]()
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
 * [One Simple Idea for Startups](https://youtu.be/6csI0dZzFRQ)
-
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 * [Incubator Blogger, Mark Long](https://incubatorblogger.wordpress.com/)
-
 ## Innovation & Entrepreneurship
 * [Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)
 * [Eight Great I&E Class Exercises](https://venturewell.org/eight-great-ie-class-exercises/)
@@ -144,22 +115,17 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Techstar Corporate Innovation Programs](https://www.techstars.com/corporate-innovation-programs/)
 * [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
 * [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
-
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
-
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
-
 ## Marketing
 * [creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
 * [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
 * [Marketing Secrets to Launching a New Business, bhy Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
-
 ## Leadership
 * [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
-
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
@@ -168,7 +134,6 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Pitching your early stage startup](https://stripe.com/atlas/guides/pitching)
 * [Storytelling 101, NYU Startup School](https://youtu.be/DH9ESEQ_NY4)
 * [What is a pitch deck presentation?](https://slidebean.com/blog/startups-what-is-a-pitch-deck-presentation)
-
 ## Product and Product Market Fit
 * [Getting to Product Market Fit - Part 1, NYU Sratup School](https://youtu.be/7qG2RTW1mzA)
 * [Getting to Product Market Fit - Part 2, NYU Sratup School](https://youtu.be/jFZXV0uVvHw)
@@ -177,21 +142,17 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
 * [How To Find Product Market Fit](https://youtu.be/0LNQxT9LvM0)
 * [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4)
-
 ## Prototype
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
 * [How to Plan an MVP ](https://youtu.be/1hHMwLxN6EM)
-
 ## Startup 101
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
 * [Entrepreneurship 101](https://youtu.be/7IoBUOsy_ew)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
-
 ## Team
 * [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
-
 ## Toolkits
 * [Build a Simple Website](https://gumroad.com/)
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
@@ -203,4 +164,3 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
   * [Financial Forecast](https://workspace.fasttrac.org/lti/deliverables/financialforecast)
 * [GrowthWheel](https://www.growthwheel.com/)
 * [Startuptree - CRM for Startups](https://join.startuptree.co/)
-
