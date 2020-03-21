@@ -89,6 +89,7 @@ A curated list of resources especially for people who are looking to run a start
 Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Finance
 * [The Art of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
+* [Managing Startup Finances](https://youtu.be/LBC16jhiwak)
 ## Founder
 * [First-Time Founders Resource Guide](https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608)
 ## Funding
