@@ -130,6 +130,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
+* [How to Design a Better Pitch Deck](https://blog.ycombinator.com/how-to-design-a-better-pitch-deck/)
+* [How to Pitch Your Startup, Kevin Hale](https://www.youtube.com/watch?v=17XZGUX_9iM)
 * [Pitch Deck Template](https://pitchdeckcoach.com/pitch-deck-template)
 * [30 Startu Pitch Decks](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
 * [Pitching your early stage startup](https://stripe.com/atlas/guides/pitching)
