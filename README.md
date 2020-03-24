@@ -77,7 +77,9 @@ A curated list of resources especially for people who are looking to run a start
 * [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
 ## Customer Discovery
 * [Acquiring Customers on a Budget](https://youtu.be/N9lZRgpLq-o)
+* [How to Talk to Users, Eric Migicovsky](https://youtu.be/MT4Ig2uqjTc)
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
+* [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 ## Entrepreneurial Mindset
 * [How to think like an Entrepreneur by Philip Delves Broughton](https://www.amazon.com/Think-Like-Entrepreneur-School-Life-ebook/dp/B0140NXXWY/)
