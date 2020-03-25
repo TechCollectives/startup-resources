@@ -60,7 +60,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Startup Fuel](https://www.startupfuel.com/)
 * [Startup Genome](https://startupgenome.com/)
 * [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
-* [TechStar](https://www.techstars.com/)
+* [Techstars](https://www.techstars.com/)
 * [TIE NY](https://ny.tie.org/)
 * [UrbanTech NYC - GRID](https://urbantechnyc.com/)
 * [Venturewell](https://venturewell.org/)
