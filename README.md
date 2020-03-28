@@ -31,6 +31,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Resources & Websites
 * [Alltop - General News, Guy Kawasaki](https://alltop.com/)
 * [AngelList - Largest Startup Community](https://angel.co/)
+* [Best YC Advice](https://ycadvice.com/)
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
 * [Builtin](https://builtin.com)
 * [CoFounder's Lab](https://cofounderslab.com/)
