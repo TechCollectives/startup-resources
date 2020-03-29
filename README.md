@@ -21,6 +21,7 @@ A curated list of resources especially for people who are looking to run a start
 * [I-Corp Course Information & Materials](https://venturewell.org/i-corps/team-materials/)
 * [How to Build a Startup, Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
+* [Public Procurement Curriculum](https://medium.com/citymartinsights)
 * [YC Startup School Lessons](https://www.startupschool.org/courses/5/lessons)
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
