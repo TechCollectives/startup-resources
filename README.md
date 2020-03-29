@@ -28,6 +28,8 @@ A curated list of resources especially for people who are looking to run a start
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
+## Videos
+* [10 Best Youtube Channels for Entrepreneurs](https://www.99signals.com/best-youtube-channels-entrepreneurs/)
 ## Resources & Websites
 * [Alltop - General News, Guy Kawasaki](https://alltop.com/)
 * [AngelList - Largest Startup Community](https://angel.co/)
