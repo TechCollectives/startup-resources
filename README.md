@@ -115,6 +115,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 * [Incubator Blogger, Mark Long](https://incubatorblogger.wordpress.com/)
+* [What is a startup accelerator?](https://medium.com/swlh/https-medium-com-newsquare-what-is-an-accelerator-ccddcb99e643)
 ## Innovation & Entrepreneurship
 * [Disciplined Entrepreneurship: 24 Steps to a Successful Startup by Bill Aulet](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup-ebook/dp/B00DQ97TWO/)
 * [Eight Great I&E Class Exercises](https://venturewell.org/eight-great-ie-class-exercises/)
