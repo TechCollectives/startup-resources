@@ -97,6 +97,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Finance
 * [The Art of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
 * [Managing Startup Finances](https://youtu.be/LBC16jhiwak)
+* [How To Keep Your Company Alive – Observe, Orient, Decide and Act](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/)
 ## Founder
 * [First-Time Founders Resource Guide](https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608)
 ## Funding
