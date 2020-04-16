@@ -163,6 +163,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
 * [How to Plan an MVP, Michael Seibel](https://youtu.be/1hHMwLxN6EM)
 ## Startup 101
+* [Design for Startups, by Garry Tan](https://youtu.be/9urYWGx2uNk)
 * [Exit Strategy](https://youtu.be/jL4ZrqnqNIA)
 * [Entrepreneurship 101](https://youtu.be/7IoBUOsy_ew)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
