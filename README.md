@@ -135,11 +135,12 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Marketing
 * [creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
 * [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
-* [Marketing Secrets to Launching a New Business, bhy Seth Godin](https://youtu.be/RDf_mFlLjrk)
+* [Marketing Secrets to Launching a New Business, by Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 ## Leadership
 * [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
+* [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
