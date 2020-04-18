@@ -132,7 +132,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
-## Marketing
+## Marketing and Branding
+* [Branding 101, Understanding Branding Basics and Fundamentals](https://youtu.be/MeLimVJom_0)
 * [creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
 * [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
 * [Marketing Secrets to Launching a New Business, by Seth Godin](https://youtu.be/RDf_mFlLjrk)
