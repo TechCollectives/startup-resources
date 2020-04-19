@@ -130,18 +130,19 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
 * [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
 * [MIT Venture Mentoring Service](http://vms.mit.edu/outreach-programs)
+## Leadership
+* [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
+* [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
 ## Marketing and Branding
 * [Branding 101, Understanding Branding Basics and Fundamentals](https://youtu.be/MeLimVJom_0)
 * [creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
 * [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
+* [Marketing, by Philip Kotler](https://youtu.be/sR-qL7QdVZQ)
 * [Marketing Secrets to Launching a New Business, by Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
-## Leadership
-* [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
-* [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
