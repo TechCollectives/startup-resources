@@ -163,7 +163,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Product Market Fit](https://youtu.be/_6pl5GG8RQ4)
 * [How To Find Product Market Fit](https://youtu.be/0LNQxT9LvM0)
 * [The Real Product Market Fit](https://youtu.be/FBOLk9s9Ci4)
-## Prototype
+## Prototype and Testing
+* [Best Practices in Hypothesis Testing](https://youtu.be/FC0SJYnWV4k)
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
 * [How to Plan an MVP, Michael Seibel](https://youtu.be/1hHMwLxN6EM)
 ## Startup 101
