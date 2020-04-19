@@ -60,6 +60,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Kauffman Foundation](https://www.kauffman.org/)
 * [New York State Business Incubator Association](https://www.bianys.com/)
 * [One Million Cups](https://www.1millioncups.com/)
+* [Philanthropy University](https://philanthropyu.org/)
 * [SCORE NY](https://newyorkcity.score.org/)
 * [Startup Fuel](https://www.startupfuel.com/)
 * [Startup Genome](https://startupgenome.com/)
