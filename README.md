@@ -5,6 +5,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
 * [Entrepreneurship and Innovation Toolkit](https://openpress.usask.ca/entrepreneurshipandinnovationtoolkit/)
 * [Harvard Startup Guide](https://otd.harvard.edu/upload/files/OTD_Startup_Guide.pdf)
+* [Lean Customer Development: Building Products Your Customers Will Buy](https://www.amazon.com/Lean-Customer-Development-Building-Customers-ebook/dp/B07582F7BB)
 * [Peter Thiel CS 183](http://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 * [Six Lessons of Entrepreneurship, Daniel Pink](https://youtu.be/ZrfkrHcN544)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
