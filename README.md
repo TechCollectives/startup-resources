@@ -50,6 +50,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Starter Stories](https://starterstory.com/)
 * [Startup School Library](https://www.startupschool.org/library)
 * [Startups & Companies in NYC](https://www.builtinnyc.com/)
+* [Startup Secrets](https://underscore.vc/startupsecrets/)
 * [Startupweekend](https://startupweekend.org/)
 * [Steve Blank's Website](https://steveblank.com/)
 * [Venture Beat](https://venturebeat.com/)
