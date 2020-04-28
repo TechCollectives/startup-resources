@@ -126,6 +126,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How Investors Think About Ideas](https://youtu.be/haqjaY_0uEc)
 * [One Simple Idea for Startups](https://youtu.be/6csI0dZzFRQ)
 * [Pretotype - Build the Right It](https://youtu.be/3sUozPcH4fY)
+* [Turn Your Ideas into Goldmines](https://youtu.be/MLKcJf9kIOA)
 ## Incubators & Accelerators
 * [Connecting startups with Accelerators](https://www.f6s.com/)
 * [Incubator Blogger, Mark Long](https://incubatorblogger.wordpress.com/)
