@@ -95,6 +95,7 @@ A curated list of resources especially for people who are looking to run a start
 * [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 ## Entrepreneurial Mindset
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 * [How and Why to Start A Startup](https://youtu.be/ZoqgAy3h4OM)
 * [How to think like an Entrepreneur by Philip Delves Broughton](https://www.amazon.com/Think-Like-Entrepreneur-School-Life-ebook/dp/B0140NXXWY/)
 * [Outliers: The Story of Success by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/)
