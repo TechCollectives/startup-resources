@@ -190,6 +190,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Entrepreneurship 101](https://youtu.be/7IoBUOsy_ew)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
+## Strategy
+* [Make the competition irrelevant: Blue Ocean Strategy](https://youtu.be/5Xd5lvyWMe8)
 ## Team
 * [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
