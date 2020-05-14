@@ -208,3 +208,4 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Startuptree - CRM for Startups](https://join.startuptree.co/)
 ## Tools
 * [Tools for Startups and Entrepreneurs](https://techcollectives.github.io/tools/)
+* [SWOT Analysis Templates and Examples](https://creately.com/blog/examples/swot-analysis-templates-creately/)
