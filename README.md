@@ -199,7 +199,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Team
 * [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
-## Toolkits
+## Tools and Toolkits
 * [Build a Simple Website](https://gumroad.com/)
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 * [Create Bjusiness Model Canvas](https://canvanizer.com/)
@@ -210,6 +210,5 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
   * [Financial Forecast](https://workspace.fasttrac.org/lti/deliverables/financialforecast)
 * [GrowthWheel](https://www.growthwheel.com/)
 * [Startuptree - CRM for Startups](https://join.startuptree.co/)
-## Tools
 * [Tools for Startups and Entrepreneurs](https://techcollectives.github.io/tools/)
-* [SWOT Analysis Templates and Examples](https://creately.com/blog/examples/swot-analysis-templates-creately/)
+
