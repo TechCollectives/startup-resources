@@ -88,13 +88,17 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
 ## Channels
 * [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
-## Customer Discovery
+## Customer Development
 * [Acquiring Customers on a Budget](https://youtu.be/N9lZRgpLq-o)
+* [Applying JTBD to Make Products Customers Love](https://share.transistor.fm/s/f98cafb3)
 * [How to Talk to Users, Eric Migicovsky](https://youtu.be/MT4Ig2uqjTc)
+* [How to Provide What Your Customer Really Wants](https://share.transistor.fm/s/44eb994b)
+* [How to Write Jobs to Be Done Example Statements](https://brianrhea.com/jobs-to-be-done-examples)
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 * [Turn Jobs-to-be-Done Theory Into Practice](https://youtu.be/G3ujSdu8mYQ)
+* [Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
 ## Entrepreneurial Mindset
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 * [How and Why to Start A Startup](https://youtu.be/ZoqgAy3h4OM)
