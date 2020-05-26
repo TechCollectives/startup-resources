@@ -86,6 +86,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
 * [Business plan template and example: how to write a business plan: Business planning made simple by Alex Genadinik](https://www.amazon.com/Business-plan-template-example-business-ebook/dp/B0193L53IU/)
 * [How to Write a Great Business Plan (Harvard Business Review Classics) by William A. Sahlman](https://www.amazon.com/Write-Business-Harvard-Review-Classics-ebook/dp/B0106RQM9E/)
+* [Lean Business Planning](https://cdn2.hubspot.net/hubfs/574549/eBook/Lean_Business_Planning.pdf)
 ## Channels
 * [Channels, by Steve Blank](https://www.youtube.com/playlist?list=PLw540Wq5kay8WpZvmK3QZ_H7udGHR9Zwj)
 ## Customer Development
