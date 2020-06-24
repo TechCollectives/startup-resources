@@ -192,7 +192,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Best Practices in Hypothesis Testing](https://youtu.be/FC0SJYnWV4k)
 * [How to Plan an MVP, Michael Seibel](https://youtu.be/1hHMwLxN6EM)
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
-* [MVP Experiment CAnvas](https://themvpcanvas.com/#more)
+* [MVP Experiment Canvas](https://themvpcanvas.com/#more)
 * [No Code MVP](https://nocodemvp.com/)
 ## Startup 101
 * [7 Failed Startups and Lessons Learnt](https://about.crunchbase.com/blog/failed-startups-and-lessons-learned/)
