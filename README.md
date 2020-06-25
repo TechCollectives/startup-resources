@@ -79,6 +79,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
+* [Harvard i-lab | Startup Secrets: Business Model](https://youtu.be/K0Eu6cL0BR8)
 ### Business Model Canvas
 * [The Business Model Canvas - 9 Steps to Creating a Successful Business Model - Startup Tips](https://youtu.be/IP0cUBWTgpY)
 * [Create Value Proposition](http://bit.ly/bmcvp)
