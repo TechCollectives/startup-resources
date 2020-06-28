@@ -208,6 +208,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
 ## Tools and Toolkits
+* [A curated tools and startup resources](https://startupstash.com/)
 * [Build a Simple Website](https://gumroad.com/)
 * [Build Something Toolkit - Venture for America](https://ventureforamerica.org/get-involved/toolkit/)
 * [Create Bjusiness Model Canvas](https://canvanizer.com/)
