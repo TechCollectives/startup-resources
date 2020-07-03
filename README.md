@@ -48,6 +48,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [New York State Business Mentor Program](https://businessmentor.ny.gov/)
 * [Real Time Company Data](https://www.crunchbase.com/)
+* [Sequoia Capital Advices for Entrepreneurs](https://www.sequoiacap.com/build/)
 * [Seth Godin's Blog - Marketing](https://seths.blog/)
 * [Short Videos and Resources for Kick Ass Entrepreneurs](https://startupedia.info/)
 * [Starter Stories](https://starterstory.com/)
@@ -68,6 +69,7 @@ A curated list of resources especially for people who are looking to run a start
 * [One Million Cups](https://www.1millioncups.com/)
 * [Philanthropy University](https://philanthropyu.org/)
 * [SCORE NY](https://newyorkcity.score.org/)
+* [Sequoia Capital](https://www.sequoiacap.com/)
 * [Startup Fuel](https://www.startupfuel.com/)
 * [Startup Genome](https://startupgenome.com/)
 * [Tech Hubs - NYC](https://builtin.com/tech-hubs#nyc)
@@ -75,6 +77,7 @@ A curated list of resources especially for people who are looking to run a start
 * [TIE NY](https://ny.tie.org/)
 * [UrbanTech NYC - GRID](https://urbantechnyc.com/)
 * [Venturewell](https://venturewell.org/)
+* [Y Combinator](https://www.ycombinator.com/)
 # Topics
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
