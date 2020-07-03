@@ -57,6 +57,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Startup Secrets](https://underscore.vc/startupsecrets/)
 * [Startupweekend](https://startupweekend.org/)
 * [Steve Blank's Website](https://steveblank.com/)
+* [Techstars Entrepreneur's Toolkit](https://toolkit.techstars.com/)
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
 ## Organizations
