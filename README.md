@@ -199,6 +199,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
 * [MVP Experiment Canvas](https://themvpcanvas.com/#more)
 * [No Code MVP](https://nocodemvp.com/)
+## Sales & Marketing
+* [Sales and Marketing Training](https://www.impactbnd.com/plus)
 ## Startup 101
 * [7 Failed Startups and Lessons Learnt](https://about.crunchbase.com/blog/failed-startups-and-lessons-learned/)
 * [Design for Startups, by Garry Tan](https://youtu.be/9urYWGx2uNk)
