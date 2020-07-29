@@ -200,8 +200,10 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [MVP Experiment Canvas](https://themvpcanvas.com/#more)
 * [No Code MVP](https://nocodemvp.com/)
 ## Sales & Marketing
+* [How to Plan and Execute Great Startup Marketing Program](https://youtu.be/FgwJbE1wIzk)
 * [Inbound Success Playbooks](https://www.impactbnd.com/playbooks)
 * [Sales and Marketing Training](https://www.impactbnd.com/plus)
+* [Social Media Content Calendar](https://wakelet.com/wake/hrooCu60V3BYOqnBSwZor)
 ## Startup 101
 * [7 Failed Startups and Lessons Learnt](https://about.crunchbase.com/blog/failed-startups-and-lessons-learned/)
 * [Design for Startups, by Garry Tan](https://youtu.be/9urYWGx2uNk)
