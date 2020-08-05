@@ -159,6 +159,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Leadership
 * [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
 * [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
+## Legal Structure
+* [B-Corp](https://bcorporation.net/)
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
 ## Marketing and Branding
