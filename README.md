@@ -161,6 +161,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
 ## Legal Structure
 * [B-Corp](https://bcorporation.net/)
+* [B-Corp Funding](https://bcorporation.net/about-b-lab/funders-and-finances)
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
 ## Marketing and Branding
