@@ -222,6 +222,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Make the competition irrelevant: Blue Ocean Strategy](https://youtu.be/5Xd5lvyWMe8)
 ## Team
 * [Anatomy of a Team Sheet, NYU Startup School](https://youtu.be/MlAGjhgvzb0)
+* [Build a Great Team](https://youtu.be/r3c7uAJRx3U)
 * [How to Work Together](https://www.idoishareilearn.com/2019/08/how-to-work-together.html)
 ## Tools and Toolkits
 * [A curated tools and startup resources](https://startupstash.com/)
