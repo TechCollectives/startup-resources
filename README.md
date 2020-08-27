@@ -92,6 +92,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Harvard i-lab | Startup Secrets: Business Model](https://youtu.be/K0Eu6cL0BR8)
 ### Business Model Canvas
 * [Create Value Proposition](http://bit.ly/bmcvp)
+* [How to Document Your Business Model on 1 page](https://blog.leanstack.com/how-to-document-your-business-model-on-1-page-a6c91ab73efd)
 * [Lean Canvas](https://stfalcon.com/en/blog/post/planning-lean-startup-development-quickly)
 * [The Business Model Canvas - 9 Steps to Creating a Successful Business Model - Startup Tips](https://youtu.be/IP0cUBWTgpY)
 * [Unfair Advantages](https://blog.asmartbear.com/unfair-advantages.html)
