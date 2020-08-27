@@ -1,5 +1,8 @@
 # Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
+## Blogs
+[The Startup Toolkit](http://thestartuptoolkit.com/blog/)
+
 ## Books
 ### Entrepreneurship & Startup
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
