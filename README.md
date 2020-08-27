@@ -184,6 +184,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Marketing Secrets to Launching a New Business, by Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
+## MVP
+* [Why Your Startup Needs MVP?]()https://stfalcon.com/en/blog/post/why-your-startup-needs-mvp
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
