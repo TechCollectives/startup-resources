@@ -95,6 +95,7 @@ A curated list of resources especially for people who are looking to run a start
 * [How to Document Your Business Model on 1 page](https://blog.leanstack.com/how-to-document-your-business-model-on-1-page-a6c91ab73efd)
 * [Lean Canvas](https://stfalcon.com/en/blog/post/planning-lean-startup-development-quickly)
 * [The Business Model Canvas - 9 Steps to Creating a Successful Business Model - Startup Tips](https://youtu.be/IP0cUBWTgpY)
+* [Why Lean Canvas vs Business Model Canvas?](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0)
 * [Unfair Advantages](https://blog.asmartbear.com/unfair-advantages.html)
 ## Business Plans
 * [Business Plan Writing 101](https://youtu.be/zlrb_X6fYZ0)
