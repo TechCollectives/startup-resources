@@ -142,6 +142,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [When and How to Raise VC, NYU Startup School](https://youtu.be/eoeH1fYBr18)
 ## Ideas
 * [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
+* [How I come up with New Startup Ideas](http://thestartuptoolkit.com/blog/2011/12/how-i-come-up-with-new-startup-ideas-in-4-steps/)
 * [How to Evaluate Ideas](https://youtu.be/7IoBUOsy_ew)
 * [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0)
 * [How to Evaluate Startup Ideas - Part 2]()
