@@ -36,6 +36,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Mixergy](https://mixergy.com)
 * [Smart Passive Income](smartpassiveincome.com)
+* [Stanford eCorner for Entrepreneurs](https://ecorner.stanford.edu/podcasts/)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
 ## Videos
