@@ -139,6 +139,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [First-Time Founders Resource Guide](https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608)
 ## Funding
 * [Are SBIR Grant Right for You?](https://youtu.be/jL4ZrqnqNIA)
+* [Five Pillars of Seed Stage Fundrasing](https://svsg.co/the-five-pillars-of-seed-stage-fundraising-the-five-attributes-for-valuing-a-seed-stage-company/)
 * [Fundraising: How to Ask for Money](https://fundraisingcoach.com/free-articles/do-it-yourself-fundraising/)
 * [Fundraising 101](https://www.amyeisenstein.com/blog/fundraising-101/)
 * [Fundraising Fundamentals By Geoff Ralston](https://youtu.be/gcevHkNGrWQ)
