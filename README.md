@@ -193,6 +193,13 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
 ## MVP
 * [Why Your Startup Needs MVP?]()https://stfalcon.com/en/blog/post/why-your-startup-needs-mvp
+## Online Stores
+* [amazon](https://www.amazon.com/)
+* [ebay](https://www.ebay.com/)
+* [Etsy](https://www.etsy.com/)
+* [bonanza](https://www.bonanza.com/)
+* [Rover](https://www.rover.com/)
+
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
