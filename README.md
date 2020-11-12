@@ -133,6 +133,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [The Art of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
 * [Managing Startup Finances](https://youtu.be/LBC16jhiwak)
 * [How To Keep Your Company Alive – Observe, Orient, Decide and Act](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/)
+* [Small Business Advice: You May Not Be Profitable](https://youtu.be/9KoHkqF2J-s)
 ## Financials
 * [What is Equity?](https://youtu.be/Q1z395u60xU)
 ## Founder
@@ -233,6 +234,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How to Plan and Execute Great Startup Marketing Program](https://youtu.be/FgwJbE1wIzk)
 * [Inbound Success Playbooks](https://www.impactbnd.com/playbooks)
 * [Sales and Marketing Training](https://www.impactbnd.com/plus)
+* [Selling and Keeping Clients](https://youtu.be/QR_TjFyCjQM)
 * [Social Media Content Calendar](https://wakelet.com/wake/hrooCu60V3BYOqnBSwZor)
 ## Startup 101
 * [7 Failed Startups and Lessons Learnt](https://about.crunchbase.com/blog/failed-startups-and-lessons-learned/)
