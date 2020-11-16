@@ -121,6 +121,9 @@ A curated list of resources especially for people who are looking to run a start
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 * [Turn Jobs-to-be-Done Theory Into Practice](https://youtu.be/G3ujSdu8mYQ)
 * [Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
+## Designers
+* [Creative Work and Design Professionals](https://dribbble.com/shots/)
+
 ## Entrepreneurial Mindset
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 * [How and Why to Start A Startup](https://youtu.be/ZoqgAy3h4OM)
