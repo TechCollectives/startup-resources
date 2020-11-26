@@ -209,6 +209,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Pitching & Storytelling
 * [Best Advice for Entrepreneurs, Daniel Pink](https://youtu.be/uQ-TgWF_DDY)
 * [Creating a Startup Pitch Deck](https://medium.com/@founding/creating-a-startup-pitch-deck-start-with-this-easy-to-use-template-f3ee594103eb)
+* [How to Create a Good Investor Pitch](https://prezi.com/qup8ghv8_rhg/how-to-create-a-good-investor-pitch/?utm_campaign=share&utm_medium=copy)
 * [How to Design a Better Pitch Deck](https://blog.ycombinator.com/how-to-design-a-better-pitch-deck/)
 * [How to give the perfect pitch - with TedX speech coach David Beckett](https://youtu.be/Njh3rKoGKBo)
 * [How to Pitch Your Startup, Kevin Hale](https://www.youtube.com/watch?v=17XZGUX_9iM)
