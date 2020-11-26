@@ -123,7 +123,6 @@ A curated list of resources especially for people who are looking to run a start
 * [Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
 ## Designers
 * [Creative Work and Design Professionals](https://dribbble.com/shots/)
-
 ## Entrepreneurial Mindset
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 * [How and Why to Start A Startup](https://youtu.be/ZoqgAy3h4OM)
@@ -236,6 +235,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Making Sense of MVP (Minimum Viable Product)](https://youtu.be/0P7nCmln7PM)
 * [MVP Experiment Canvas](https://themvpcanvas.com/#more)
 * [No Code MVP](https://nocodemvp.com/)
+## Stakeholders
+* [Increase Stakeholder Value](https://youtu.be/gZ8ERX8txbY)
 ## Sales & Marketing
 * [How to Plan and Execute Great Startup Marketing Program](https://youtu.be/FgwJbE1wIzk)
 * [Inbound Success Playbooks](https://www.impactbnd.com/playbooks)
