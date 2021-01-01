@@ -123,6 +123,8 @@ A curated list of resources especially for people who are looking to run a start
 * [Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
 ## Designers
 * [Creative Work and Design Professionals](https://dribbble.com/shots/)
+## eCommerce
+* [Shopify vs WordPress + Woo Commerce](https://www.wpbeginner.com/opinion/shopify-vs-woocommerce-which-is-the-better-platform-comparison/)
 ## Entrepreneurial Mindset
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
 * [How and Why to Start A Startup](https://youtu.be/ZoqgAy3h4OM)
