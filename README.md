@@ -55,6 +55,7 @@ A curated list of resources especially for people who are looking to run a start
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Founder's Nation](https://founders-nation.com/)
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
+* [MIT Bootcamp](https://bootcamps.mit.edu/) - entrepreneurship & innovation
 * [Kleiner Perkins](https://www.kleinerperkins.com/)
 * [New York State Business Mentor Program](https://businessmentor.ny.gov/)
 * [Real Time Company Data](https://www.crunchbase.com/)
