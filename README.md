@@ -53,6 +53,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Builtin](https://builtin.com)
 * [CoFounder's Lab](https://cofounderslab.com/)
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
+* [F6S - Founders and Startups](https://www.f6s.com/)
 * [Founder's Nation](https://founders-nation.com/)
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [MIT Bootcamp](https://bootcamps.mit.edu/) - entrepreneurship & innovation
