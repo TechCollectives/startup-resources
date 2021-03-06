@@ -1,7 +1,8 @@
 # Startup Resources
 A curated list of resources especially for people who are looking to run a startup in the future.
 ## Blogs
-[The Startup Toolkit](http://thestartuptoolkit.com/blog/)
+* [The Startup Toolkit](http://thestartuptoolkit.com/blog/)
+* [The most dangerous writing prompt app](https://www.squibler.io/dangerous-writing-prompt-app)
 
 ## Books
 ### Entrepreneurship & Startup
