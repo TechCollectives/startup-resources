@@ -200,6 +200,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
 ## Marketing and Branding
 * [5 Steps to Consumer Adoption](https://www.entlifeonline.com/5-stages-to-consumer-adoption-process-with-examples/)
+* [Alignable](https://www.alignable.com/)
 * [Branding 101, Understanding Branding Basics and Fundamentals](https://youtu.be/MeLimVJom_0)
 * [Creating Your Social Media Marketing Plan, NYU Startup School](https://youtu.be/h9KborZAAU4)
 * [Digital Marketing Essentials, NYU Startup School](https://youtu.be/cJYbpDt6Tw4)
