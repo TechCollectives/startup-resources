@@ -64,6 +64,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Kleiner Perkins](https://www.kleinerperkins.com/)
 * [New York State Business Mentor Program](https://businessmentor.ny.gov/)
 * [North California SBDC Startup Library](https://www.notion.so/The-Startup-Library-c70892c72fb842459861fdce39009856)
+* [Online Success Path](https://kimberlyannjimenez.com/success-path-lite/?ck_subscriber_id=1194073830)
 * [Real Time Company Data](https://www.crunchbase.com/)
 * [Sequoia Capital Advices for Entrepreneurs](https://www.sequoiacap.com/build/)
 * [Seth Godin's Blog - Marketing](https://seths.blog/)
