@@ -98,6 +98,12 @@ A curated list of resources especially for people who are looking to run a start
 * [Venturewell](https://venturewell.org/)
 * [Y Combinator](https://www.ycombinator.com/)
 # Topics
+
+## Board Meetings 
+* [Let’s Fix Startup Board Meetings, Jon Callaghan](https://techcrunch.com/2016/02/01/1270130/)
+* [Preparing a Board Deck, Bryan Schreier](https://www.sequoiacap.com/article/preparing-a-board-deck/)
+* [The Secret to Making Board Meetings Suck Less, First Round Review](https://firstround.com/review/The-Secret-to-Making-Board-Meetings-Suck-Less/)
+
 ## Business Model
 * [Business Model Canvas Explained](https://youtu.be/QoAOzMTLP5s)
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/)
