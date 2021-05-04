@@ -125,16 +125,20 @@ A curated list of resources especially for people who are looking to run a start
 ## Customer Development
 * [Acquiring Customers on a Budget](https://youtu.be/N9lZRgpLq-o)
 * [Applying JTBD to Make Products Customers Love](https://share.transistor.fm/s/f98cafb3)
+* [Getting to Yes: Negotiating Agreement Without Giving In, Roger Fisher, et al](https://www.amazon.com/dp/B0051SDM5Q/ref=cm_sw_r_tw_dp_x_I8XfFb1JXT608)
 * [How to Talk to Users, Eric Migicovsky](https://youtu.be/MT4Ig2uqjTc)
 * [How to Provide What Your Customer Really Wants](https://share.transistor.fm/s/44eb994b)
 * [How to Write Jobs to Be Done Example Statements](https://brianrhea.com/jobs-to-be-done-examples)
 * [Know Your Customer's Jobs To Be Done - Video](https://hbr.org/video/5852531897001/know-your-customers-jobs-to-be-done)
 * [Know Your Customer's Jobs To Be Done, Clayton Christensen](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+* [Lean Customer Development: Building Products Your Customers Will Buy, Cindy Alvarez](https://www.amazon.com/dp/B07582F7BB/ref=cm_sw_r_tw_dp_x_66XfFbDK0BD20)
 * [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 * [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+* [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company, Steve Blank](https://www.amazon.com/dp/B084RHMYZM/ref=cm_sw_r_tw_dp_x_A5XfFbX3X4Y83)
 * [The Tactics of Conducting Customer Discovery](https://www.slideshare.net/sblank/customer-discovery-23251533)
 * [Turn Jobs-to-be-Done Theory Into Practice](https://youtu.be/G3ujSdu8mYQ)
 * [Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
+
 ## Designers
 * [Creative Work and Design Professionals](https://dribbble.com/shots/)
 ## eCommerce
@@ -203,6 +207,13 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Legal Structure
 * [B-Corp](https://bcorporation.net/)
 * [B-Corp Funding](https://bcorporation.net/about-b-lab/funders-and-finances)
+## Management
+* [High Growth Handbook, Elad Gil](https://www.amazon.com/dp/B07DRPGGQ7/ref=cm_sw_r_tw_dp_x_.3XfFbY8788SB)
+* [High Output Management, Andy Grove](https://www.amazon.com/dp/B015VACHOK/ref=cm_sw_em_r_mt_dp_U_1BXfFbTSNF7QR)
+* [The Hard Thing About Hard Things, Ben Horowitz](https://www.amazon.com/dp/B00DQ845EA/ref=cm_sw_r_tw_dp_x_d2XfFbMATSCSW)
+* [The Great CEO Within, Matt Mochary](https://docsend.com/view/xeisjxcr9gxtucsi)
+* [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595)
+
 ## Market and Competition
 * [Sizing Up Your Market and Competition, NYU Startup School](https://youtu.be/8EAAyAn0bOg)
 ## Marketing and Branding
