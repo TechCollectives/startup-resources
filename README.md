@@ -201,6 +201,8 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Teaching Entrepreneurship: A Practice-Based Approach by Heidi M. Neck]()
 * [The Ten-Day MBA 4th Ed.: A Step-by-Step Guide to Mastering the Skills Taught In America’s Top Business Schools by Steven A. Silbiger](https://www.amazon.com/Ten-Day-MBA-3rd-Ed/dp/0060799072/)
 * [The Outcome-Driven Innovation Process - Overview](https://youtu.be/rth9XgqfHeM)
+## Interns
+[ampersandpro](https://www.ampersandpro.com/)
 ## Leadership
 * [Building Leadership Capacity in Your Startup, NYU Startup School](https://youtu.be/n3gK4pITdV0)
 * [How to Win, by Daniel Gross](https://youtu.be/LH1bewTg-P4)
