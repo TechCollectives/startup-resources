@@ -61,6 +61,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Founder's Nation](https://founders-nation.com/)
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [MIT Bootcamp](https://bootcamps.mit.edu/) - entrepreneurship & innovation
+* [New York Small Business Resources Center](https://www.nycsmallbusinessresourcenetwork.org/openandonline)
 * [NFTE - Entrepreneurship Education](https://www.nfte.com/)
 * [Kleiner Perkins](https://www.kleinerperkins.com/)
 * [New York State Business Mentor Program](https://businessmentor.ny.gov/)
