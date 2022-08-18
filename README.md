@@ -59,6 +59,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Creative Ladder](https://www.creativeladder.org/)
 * [F6S - Founders and Startups](https://www.f6s.com/)
 * [Founder's Nation](https://founders-nation.com/)
+* [Futureworks Makerspace Community](https://airtable.com/shrBFTyitVKE6poL8)
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [MIT Bootcamp](https://bootcamps.mit.edu/) - entrepreneurship & innovation
 * [New York Small Business Resources Center](https://www.nycsmallbusinessresourcenetwork.org/openandonline)
