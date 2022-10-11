@@ -325,3 +325,5 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Startuptree - CRM for Startups](https://join.startuptree.co/)
 * [Tools for Startups and Entrepreneurs](https://techcollectives.github.io/tools/)
 
+## Virtual Assistance
+* [Office Beacon](https://www.officebeacon.com/)
