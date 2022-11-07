@@ -33,6 +33,9 @@ A curated list of resources especially for people who are looking to run a start
 * [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
 * [Public Procurement Curriculum](https://medium.com/citymartinsights)
 * [YC Startup School Lessons](https://www.startupschool.org/courses/5/lessons)
+## Events
+* [eventbrite](https://www.eventbrite.com/)
+* [lu.ma](https://lu.ma/)
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Mixergy](https://mixergy.com)
