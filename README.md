@@ -53,6 +53,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Work Bench Videos](https://www.youtube.com/channel/UCj-Ihr72zeuQlKAUt7oo9SA/videos)
 ## Resources & Websites
 * [Alltop - General News, Guy Kawasaki](https://alltop.com/)
+* [Anita B](https://anitab.org/) *****
 * [AngelList - Largest Startup Community](https://angel.co/)
 * [Best YC's startup Advice](https://ycadvice.com/)
 * [Betalist: Discover Tomorrow's Startups, Today](https://betalist.com/)
@@ -63,6 +64,7 @@ A curated list of resources especially for people who are looking to run a start
 * [F6S - Founders and Startups](https://www.f6s.com/)
 * [Founder's Nation](https://founders-nation.com/)
 * [Futureworks Makerspace Community](https://airtable.com/shrBFTyitVKE6poL8)
+* [ifundwomen](https://ifundwomen.com/) *****
 * [Indie Hackers - Learn From Other Founders](https://www.indiehackers.com/)
 * [MIT Bootcamp](https://bootcamps.mit.edu/) - entrepreneurship & innovation
 * [New York Small Business Resources Center](https://www.nycsmallbusinessresourcenetwork.org/openandonline)
