@@ -230,6 +230,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Legal Structure
 * [B-Corp](https://bcorporation.net/)
 * [B-Corp Funding](https://bcorporation.net/about-b-lab/funders-and-finances)
+* [Legal GPS](https://www.legalgps.com/library-partners)
 ## Management
 * [High Growth Handbook, Elad Gil](https://www.amazon.com/dp/B07DRPGGQ7/ref=cm_sw_r_tw_dp_x_.3XfFbY8788SB)
 * [High Output Management, Andy Grove](https://www.amazon.com/dp/B015VACHOK/ref=cm_sw_em_r_mt_dp_U_1BXfFbTSNF7QR)
