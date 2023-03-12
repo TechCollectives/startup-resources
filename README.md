@@ -43,6 +43,11 @@ A curated list of resources especially for people who are looking to run a start
 * [Stanford eCorner for Entrepreneurs](https://ecorner.stanford.edu/podcasts/)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
+
+##Trends
+* [Future Today Institute](https://futuretodayinstitute.com/reports/)
+* [Spark and Honey](https://www.sparksandhoney.com/)
+* [Trend Hunter](https://www.trendhunter.com/)
 ## Videos
 * [10 Best Youtube Channels for Entrepreneurs](https://www.99signals.com/best-youtube-channels-entrepreneurs/)
 * [ASU+GSV Video Library](https://www.asugsvsummit.com/asu-gsv-video-library)
