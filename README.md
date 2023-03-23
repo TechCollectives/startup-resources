@@ -202,6 +202,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://youtu.be/Jzz4AEIddzY)
 * [How to Raise Money as an Entrepreneur](https://youtu.be/KB442EchOTY)
 * [How to Raise Money](https://youtu.be/0JBOSmRo8js)
+* [Network for Good](https://www.linkedin.com/in/onekabady/) -- Grant writing
 * [Pre-seed vs Seed Fundraising](https://svsg.co/pre-seed-vs-seed-fundraising/)
 * [Revenue-Backed Financing](https://drive.google.com/file/d/1iN3K0aDMYip_e9ABWUolUZbW6HGXfha0/view?usp=sharing)
 * [When and How to Raise VC, NYU Startup School](https://youtu.be/eoeH1fYBr18)
