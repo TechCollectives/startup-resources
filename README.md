@@ -45,7 +45,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
 
-##Trends
+## Trends
 * [Future Today Institute](https://futuretodayinstitute.com/reports/)
 * [Spark and Honey](https://www.sparksandhoney.com/)
 * [Trend Hunter](https://www.trendhunter.com/)
@@ -70,6 +70,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Cru](https://www.cru.org/) ***** paid - peer mentoring
 * [CUNY Startup Toolkit](https://www.cunystartups.com/toolkit)
 * [Creative Ladder](https://www.creativeladder.org/)
+* [Edward Lowe Foundation Resources](https://edwardlowe.org/digital-library/erc/)
 * [F6S - Founders and Startups](https://www.f6s.com/)
 * [Founder's Nation](https://founders-nation.com/)
 * [Futureworks Makerspace Community](https://airtable.com/shrBFTyitVKE6poL8)
