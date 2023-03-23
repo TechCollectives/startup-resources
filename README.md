@@ -55,7 +55,9 @@ A curated list of resources especially for people who are looking to run a start
 * [Never Too Late to Start](https://www.youtube.com/channel/UC8PW7yf41ff4WJhzf8bY2Dg/featured)
 * [New York Women in Business - Youtube Channels](https://www.youtube.com/channel/UC-XOtV5KP-00Jy936GR9Jzw)
 * [Storyboard of The Lean Startup Introduction](https://youtu.be/jBlrLqsjIDw)
+* [Luminoustudios](https://luminoustudios.com/) -- video creation
 * [Work Bench Videos](https://www.youtube.com/channel/UCj-Ihr72zeuQlKAUt7oo9SA/videos)
+
 ## Resources & Websites
 * [Alltop - General News, Guy Kawasaki](https://alltop.com/)
 * [Anita B](https://anitab.org/) *****
