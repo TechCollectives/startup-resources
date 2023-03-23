@@ -322,6 +322,10 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Entrepreneurship 101](https://youtu.be/7IoBUOsy_ew)
 * [Startup Owner's Manual - Founders Workbook](http://www.guidearama.com/guides/fwb.html)
 * [Story of Your Startup](https://youtu.be/yjOyMqYEX_8)
+
+## Storytelling
+* [The Spring: The charity: water story](https://www.youtube.com/watch?v=bdBG5VO01e0) -- a purpose driven non-for-profit making big, positive impact
+
 ## Strategy
 * [Make the competition irrelevant: Blue Ocean Strategy](https://youtu.be/5Xd5lvyWMe8)
 ## Team
