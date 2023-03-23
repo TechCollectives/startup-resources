@@ -30,6 +30,7 @@ A curated list of resources especially for people who are looking to run a start
 * [The Lean Launch Pad: How to Build a Startup, Steve Blank](https://www.youtube.com/watch?v=VZvgj6B2JZs&list=PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW)
 * [I-Corp Course Information & Materials](https://venturewell.org/i-corps/team-materials/)
 * [Introduction to Innovation and Entrepreneurship](https://online.stanford.edu/courses/xmse100-introduction-innovation-and-entrepreneurship)
+* [Leanstack Accelerator](https://leanstack.com/accelerators/)
 * [New Entreprises By MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/)
 * [Public Procurement Curriculum](https://medium.com/citymartinsights)
 * [YC Startup School Lessons](https://www.startupschool.org/courses/5/lessons)
