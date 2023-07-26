@@ -187,13 +187,14 @@ A curated list of resources especially for people who are looking to run a start
 * [Emotional Intelligence 2.0 by Travis Bradberry](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry-ebook/dp/B002U3CBUW/)
 * [The 4 Disciplines of Execution: Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, and Jim Huling
 Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
-## Finance
+## Finance & /Financial Projections
+* [Forecastr](https://www.forecastr.co/) *** software that does financial forecasting
 * [The Art of Startup Finance, Kauffman Founders School](https://www.entrepreneurship.org/learning-paths/the-art-of-startup-finance)
 * [Managing Startup Finances](https://youtu.be/LBC16jhiwak)
 * [How To Keep Your Company Alive – Observe, Orient, Decide and Act](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/)
 * [Small Business Advice: You May Not Be Profitable](https://youtu.be/9KoHkqF2J-s)
-## Financials
 * [What is Equity?](https://youtu.be/Q1z395u60xU)
+  
 ## Founder
 * [First-Time Founders Resource Guide](https://medium.com/@lolitataub/first-time-founders-resource-guide-2b14ba3fb608)
 ## Funding
