@@ -120,10 +120,17 @@ A curated list of resources especially for people who are looking to run a start
 
 ### For arrtists
 * [Visura - ](https://visura.co/news#) -- A destination for publishers to license unique, compelling visuals for growing and engaging audiences and a home for freelancers to build websites and a catalog of images for sale.
-## Programs
+## Programs (mentoring, advising)
+* [Bolster - Mentor program](https://bolster.com/) *** referred by Visible Hands
 * [Goldman Sachs 10,000 Small Businesses](https://www.10ksbapply.com/)
+* [Mentorship](https://mentornity.com/)
+* [NASDAQ - Mentor Makers](https://thecenter.nasdaq.org/mentor-makers/)
 * [New York Professional Advisors](https://www.nypace.org/)
+* [OpenExO](https://openexo.com/)
+* [SCORE](https://www.score.org/)
+* [SCORE New York City](https://www.score.org/newyorkcity)
 * [Start Small Think Big](https://www.startsmallthinkbig.org/)
+* [WeLoveMentors](https://welovementors.com/)
 
 ## Tools
 * [Linktree](https://linktr.ee/)
@@ -267,8 +274,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Marketing Secrets to Launching a New Business, by Seth Godin](https://youtu.be/RDf_mFlLjrk)
 * [Marketing Strategy, by Steve Jobs](https://youtu.be/kshIWIc15yg)
 * [This is Marketing, by Seth Godin](https://youtu.be/BPK_qzeH_yk)
-## Mentorship
-* [Mentorship](https://mentornity.com/)
+
 ## MVP
 * [Why Your Startup Needs MVP?]()https://stfalcon.com/en/blog/post/why-your-startup-needs-mvp
 ## Online Stores
