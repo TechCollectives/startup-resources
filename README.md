@@ -229,7 +229,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 * [Pretotype - Build the Right It](https://youtu.be/3sUozPcH4fY)
 * [Turn Your Ideas into Goldmines](https://youtu.be/MLKcJf9kIOA)
 ## Incubators & Accelerators
-* [Connecting startups with Accelerators](https://www.f6s.com/)
+* [Connecting startups with Accelerators](https://www.f6s.com/) ***
 * [Incubator Blogger, Mark Long](https://incubatorblogger.wordpress.com/)
 * [What is a startup accelerator?](https://medium.com/swlh/https-medium-com-newsquare-what-is-an-accelerator-ccddcb99e643)
 ## Innovation & Entrepreneurship
