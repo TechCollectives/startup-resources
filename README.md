@@ -38,6 +38,10 @@ A curated list of resources especially for people who are looking to run a start
 ## Events
 * [eventbrite](https://www.eventbrite.com/)
 * [lu.ma](https://lu.ma/)
+
+## Grants
+* [Riseproject](https://www.stacyssnacks.com/riseproject)
+  
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Mixergy](https://mixergy.com)
