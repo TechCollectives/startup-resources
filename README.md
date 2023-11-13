@@ -15,6 +15,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Peter Thiel CS 183](http://blakemasters.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes)
 * [Six Lessons of Entrepreneurship, Daniel Pink](https://youtu.be/ZrfkrHcN544)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+* [Innovators of the World](https://innovationsoftheworld.com/)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, by Eric Ries](https://www.amazon.com/dp/B004J4XGN6)
 * [Techstar Entrepreneurs Toolkit](https://toolkit.techstars.com/)
 * [twenty seven books on startups](https://hitenism.com/startup-books/)
