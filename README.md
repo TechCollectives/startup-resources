@@ -102,6 +102,7 @@ A curated list of resources especially for people who are looking to run a start
 * [Techstars Entrepreneur's Toolkit](https://toolkit.techstars.com/)
 * [Venture Beat](https://venturebeat.com/)
 * [Y Combinator Startup Library](https://www.ycombinator.com/resources/)
+* [Go Squared away](https://www.gosquaredaway.com/) *** Virtual Assistant - Millitary Spouse
 * [Wethos - Design Studio / Market Place](https://www.wethos.co/)
 ## Organizations
 * [B2B Growth Forum](https://www.b2bgrowthforum.com/)
