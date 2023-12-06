@@ -41,8 +41,9 @@ A curated list of resources especially for people who are looking to run a start
 * [lu.ma](https://lu.ma/)
 
 ## Grants & Funding
+* [Bsuiness Loans](https://businessloans.com/)
+* [Golden Seeds](https://www.goldenseedsvc.com/)
 * [Riseproject](https://www.stacyssnacks.com/riseproject)
-* [Bsuiness Loans](https://businessloans.com/) 
   
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
