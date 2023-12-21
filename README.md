@@ -328,6 +328,7 @@ Business plan](https://www.amazon.com/dp/B005FLODJ8/r)
 ## Sales & Marketing
 * [How to Plan and Execute Great Startup Marketing Program](https://youtu.be/FgwJbE1wIzk)
 * [Inbound Success Playbooks](https://www.impactbnd.com/playbooks)
+* [Lead Frensics](https://www.leadforensics.com/) **** Sales related materials
 * [Sales and Marketing Training](https://www.impactbnd.com/plus)
 * [Selling and Keeping Clients](https://youtu.be/QR_TjFyCjQM)
 * [Social Media Content Calendar](https://wakelet.com/wake/hrooCu60V3BYOqnBSwZor)
