@@ -47,14 +47,18 @@ A curated list of resources especially for people who are looking to run a start
 * [Riseproject](https://www.stacyssnacks.com/riseproject)
   
 ## Podcasts
+
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
 * [Innovations and breakthroughs - with Rich Goldstein](https://www.goldsteinpatentlaw.com/podcasts/) *****
+* [Me, Myself & AI](https://sloanreview.mit.edu/audio-series/me-myself-and-ai/) *****
 * [Mixergy](https://mixergy.com)
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stanford eCorner for Entrepreneurs](https://ecorner.stanford.edu/podcasts/)
 * [Stitcher](https://www.stitcher.com/)
+* [The Conversation Factory](https://theconversationfactory.com/) *****
+* [The Espresso Hour](https://www.espressohour.com/) - ***** Ship 30 Podcast
 * [The Startup Chat](thestartupchat.com)
-* 
+* [The Unmistakeable Creative](https://podcast.unmistakablecreative.com/) *****
 
 ## Trends
 * [Future Today Institute](https://futuretodayinstitute.com/reports/)
