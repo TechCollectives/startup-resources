@@ -3,6 +3,7 @@ A curated list of resources especially for people who are looking to run a start
 ## Blogs
 * [The Startup Toolkit](http://thestartuptoolkit.com/blog/)
 * [The most dangerous writing prompt app](https://www.squibler.io/dangerous-writing-prompt-app)
+* [Patent Law, IP](https://www.goldsteinpatentlaw.com/blog/) *****
 
 ## Books
 ### Entrepreneurship & Startup
@@ -47,11 +48,13 @@ A curated list of resources especially for people who are looking to run a start
   
 ## Podcasts
 * [Enterpreneurial Leaders Series - Standfor eCorner](https://ecorner.stanford.edu/series/etl/)
+* [Innovations and breakthroughs - with Rich Goldstein](https://www.goldsteinpatentlaw.com/podcasts/) *****
 * [Mixergy](https://mixergy.com)
 * [Smart Passive Income](smartpassiveincome.com)
 * [Stanford eCorner for Entrepreneurs](https://ecorner.stanford.edu/podcasts/)
 * [Stitcher](https://www.stitcher.com/)
 * [The Startup Chat](thestartupchat.com)
+* 
 
 ## Trends
 * [Future Today Institute](https://futuretodayinstitute.com/reports/)
